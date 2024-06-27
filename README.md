@@ -4,4 +4,6 @@ Aspiring Data Analyst with a strong foundation in data analysis tools and techni
 
 Proficient in Excel for data manipulation and visualization, and skilled in SQL for database querying and management. Experienced with Power BI for creating interactive dashboards and reports.
 
-Enthusiastic about exploratory data analysis (EDA) to uncover patterns and trends in data. Dedicated to continuous learning and applying analytical skills to solve complex problems.
+Python: Competent in using Python for data analysis, including libraries such as Pandas, NumPy, and Matplotlib for data manipulation and visualization.
+
+Exploratory Data Analysis (EDA): Adept at conducting EDA to uncover patterns, spot anomalies, and test hypotheses through statistical analysis and visualizations.
